@@ -1,0 +1,9 @@
+#Database Configuration
+spring:
+  datasource:
+    driver-class-name: 'com.mysql.cj.jdbc.Driver'
+    url: "jdbc:mysql://zpj83vpaccjer3ah.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/gxc0trs9tolbx7vk?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
+    username: "y2st1xz52t1yke9c"
+    password: "ymanvfgxf1lq1o7n"
+    platform: "mysql"
+    initialization-mode: "always"
